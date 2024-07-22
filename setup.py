@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name='YtDuration',
-    version='0.3',
+    version='0.4',
     description='A Python package to get the duration of a YouTube video without using the YouTube Data API.',
     author='Ranjit',
-    author_email='ranjitmaity95@gmail.com',
+    author_email=['ranjitmaity95@gmail.com','h.h_vats@yahoo.com'],
     maintainers=[
         'h.h_vats@yahoo.com'],
     url='https://github.com/RanjitM007/YtDuration',  # Replace with your GitHub repository URL
