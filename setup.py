@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='yt_duration',
+    name='YtDuration',
     version='0.1',
     description='A Python package to get the duration of a YouTube video without using the YouTube Data API.',
     author='Ranjit',
